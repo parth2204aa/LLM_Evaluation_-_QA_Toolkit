@@ -1,0 +1,6 @@
+{
+     "id": "test_001",
+     "prompt": "What is 23 + 42?",
+     "expected_answer": "65",
+     "evaluation": "exact_match"
+   }
